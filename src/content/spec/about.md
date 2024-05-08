@@ -1,9 +1,17 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# Este Proyecto
 
-::github{repo="saicaca/fuwari"}
+Nace con el fin de condensar información sobre los aspectos mas importantes en cuanto el uso adecuado de las tecnologías de la información especialmente enfocado a usuarios domésticos.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## Como Objetivo Principal
+
+Deseo fomentar un uso responsable, seguro entre otros de las tecnologías de la información mas comunmentes usadas.
+
+## Colocaré Todo mi Empeño
+
+Para que la información brindada en este blog sea de lo más seria, responsable, estudiada y de fácil entendimiento para así generar un impacto debastador contra la desinformación y las malas práctias digitales.
+
+## Si Siente que Alguna de la Información Aquí Expuesta es Equivocada
+
+Por favor hacermelo saber en el  siguete [Link.]()
+
+
