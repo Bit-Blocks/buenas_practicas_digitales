@@ -12,7 +12,7 @@
 
 >## Si Sientes que Alguna de la Información aquí Expuesta está Equivocada
 >
->### Por favor hacermelo saber en el  siguete [Link.]()
+>### Por favor hacermelo saber en el  siguete formulario
 
 
 
