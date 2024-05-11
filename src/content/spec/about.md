@@ -10,9 +10,5 @@
 >
 >Para que la información brindada en este blog sea de lo más seria, responsable, estudiada y de fácil entendimiento para así generar un impacto debastador contra la desinformación y las malas práctias digitales.
 
->## Si Sientes que Alguna de la Información aquí Expuesta está Equivocada
->
->### Por favor hacermelo saber en el  siguete formulario
-
 
 
