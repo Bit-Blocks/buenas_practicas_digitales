@@ -2,15 +2,21 @@
 
 ---
 <!-- component -->
-<div class="flex items-center justify-center p-12">
+<div class="card-base px-8 py-6">
+          <label
+            class="flex text-3xl mb-3 block font-medium text-white justify-center pb-14 py-14"
+          >
+            Formulario de contacto
+          </label>
+
     <!-- Author: FormBold Team -->
     <!-- Learn More: https://formbold.com -->
     <div class="mx-auto w-full max-w-[550px]">
-      <form action="contact" netlify>
+      <form action="contact" autocomplete="off" netlify>
         <div class="mb-5">
           <label
             for="name"
-            class="mb-3 block text-base font-medium"
+            class="mb-3 block font-medium text-white"
           >
             Nombre
           </label>
@@ -19,13 +25,13 @@
             name="name"
             id="name"
             placeholder="Nombre"
-            class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"
+            class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-black font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"
           />
         </div>
         <div class="mb-5">
           <label
             for="email"
-            class="mb-3 block text-base font-medium"
+            class="mb-3 block text-base font-medium text-white"
           >
             Correo Electrónico
           </label>
@@ -34,13 +40,13 @@
             name="email"
             id="email"
             placeholder="ejeplo@dominio.com"
-            class="w-full rounded-md border py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"
+            class="w-full rounded-md border py-3 px-6 text-black font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"
           />
         </div>
         <div class="mb-5">
           <label
             for="subject"
-            class="mb-3 block text-base font-medium"
+            class="mb-3 block text-base font-medium text-white"
           >
             Asunto
           </label>
@@ -49,13 +55,13 @@
             name="subject"
             id="subject"
             placeholder="Escribe tu asunto"
-            class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"
+            class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-black font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"
           />
         </div>
         <div class="mb-5">
           <label
             for="message"
-            class="mb-3 block text-base font-medium"
+            class="mb-3 block text-base font-medium text-white"
           >
             Mensaje
           </label>
@@ -64,10 +70,10 @@
             name="message"
             id="message"
             placeholder="Escribe tu mensaje"
-            class="w-full resize-none rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"
+            class="w-full resize-none text-black rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"
           ></textarea>
         </div>
-        <div>
+        <div class="flex justify-center">
           <button
             class="hover:shadow-form rounded-md bg-[#1e3b3b] py-3 px-8 text-base font-semibold text-white outline-none"
             type="submit"
