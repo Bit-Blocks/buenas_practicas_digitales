@@ -12,7 +12,12 @@
     <!-- Author: FormBold Team -->
     <!-- Learn More: https://formbold.com -->
     <div class="mx-auto w-full max-w-[550px]">
-      <form action="contact" autocomplete="off" netlify>
+      <form action="contact" autocomplete="off" netlify-honeypot="bot-field" netlify>
+        <p class="hidden">
+          <label>
+             <input name="bot-field" />
+          </label>
+        </p>
         <div class="mb-5">
           <label
             for="name"
@@ -78,6 +83,7 @@
             class="hover:shadow-form rounded-md bg-[#1e3b3b] py-3 px-8 text-base font-semibold text-white outline-none"
             type="submit"
             value="enviar"
+            
           >
             Enviar
           </button>
